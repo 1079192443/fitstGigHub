@@ -1,2 +1,7 @@
 public class
- fistClass{}
+ fistClass{
+
+tiantjia
+
+
+}

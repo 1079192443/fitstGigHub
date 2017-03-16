@@ -1,6 +1,6 @@
 public class fistClass{
 //ddd
-
+000000
 
 
 //=====

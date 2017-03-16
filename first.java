@@ -1,15 +1,1 @@
-public class fistClass{
-//ddd
-000000
-
-
-//=====
-
-
-
-
-
-
- 33333 private String a;2222
- //我是当前分支，做了修改
-}
+public class fistClass{}
